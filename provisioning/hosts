@@ -1,0 +1,1 @@
+template ansible_ssh_host=1.1.1.1 ansible_port=22
